@@ -14,6 +14,6 @@
 ###Images
 
 
-![]()
+![](https://github.com/radhamesc-capellan/Academlo_Quote_Random_Machine/blob/master/src/assets/quote_machine.png)
 
 > Quote Random Machine.
